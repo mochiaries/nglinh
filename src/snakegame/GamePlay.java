@@ -62,6 +62,7 @@ public class GamePlay extends JPanel implements KeyListener, ActionListener{
         
     }
     // too lazy to download images ... :(
+    // omg this fuking shit :)
     public void paint (Graphics g) {
         
         //check xem có rắn di chuyển chưa để khởi tạo rắn tại vị trí mặc định
