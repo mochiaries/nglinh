@@ -34,7 +34,7 @@ public class GamePlay extends JPanel implements KeyListener, ActionListener{
     private ImageIcon downMouth;
     private ImageIcon snakeImage;
     private ImageIcon enemy;
-    
+    //...
     private final Timer timer;
     private final int delay = 100;
     
